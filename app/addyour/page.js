@@ -1,4 +1,4 @@
-export default function dashboard() {
+export default function addyour() {
     return (
         <main className="ml-8 mt-10 mr-8">
    <div className=" flex justify-start">
@@ -23,10 +23,11 @@ export default function dashboard() {
 </div>
 
 
-<div className="grid justify-items-center mt-20 w-full
-bg-lime-300 min-h-[5vh] min-w-[10vh]">
-<h1 className="text-zinc-900 text-2xl font-  ">Done </h1>
-
+<div className="flex row  justify-center mt-10 w-full
+ min-h-[5vh] min-w-[10vh] border rounded-lg border-lime-300">
+<h1 className="text-lime-300 text-2xl font- mt-1 mr-5 ">Add your music   </h1>
+<img src="pg.svg" /> 
+   
 </div>
 
 </main>

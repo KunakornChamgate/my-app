@@ -42,3 +42,10 @@ body {
   margin-left: 15px;
   color: #b2b2b2;
 }
+
+.searchicon{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 15px;
+
+}
