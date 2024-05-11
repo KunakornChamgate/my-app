@@ -23,7 +23,7 @@ export default function Dashboard() {
                 </div>
             </section>
             
-            <a href="/song">
+            <a href="/addyour">
             <section className="ml-0 mt-10 mr-0 font-s font-semibold"> 
                 <div>
                     <ImageCard imageSrc="/warmup.jpg" titleText="Warm up" />

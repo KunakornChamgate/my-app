@@ -34,8 +34,8 @@ export default function song() {
             <SongList numberText="3" songName="Half the world away" artist="Oasis"/>
           </div>
 
-          <div className="grid justify-items-center mt-20 w-full bg-lime-300 min-h-[5vh] min-w-[10vh]">
-            <h1 className="text-zinc-900 text-2xl font-  ">Done </h1>
+          <div className="grid justify-items-center mt-20 w-full bg-lime-300 min-h-[5vh] rounded-lg ">
+            <h1 className="text-zinc-900 text-2xl font- mt-1  ">Done </h1>
           </div>
 
           </main>

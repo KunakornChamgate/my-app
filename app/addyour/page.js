@@ -22,13 +22,14 @@ export default function addyour() {
   </div>
 </div>
 
-
+<a href="/choosesong">
 <div className="flex row  justify-center mt-10 w-full
  min-h-[5vh] min-w-[10vh] border rounded-lg border-lime-300">
 <h1 className="text-lime-300 text-2xl font- mt-1 mr-5 ">Add your music   </h1>
 <img src="pg.svg" /> 
-   
+
 </div>
+</a> 
 
 </main>
 
