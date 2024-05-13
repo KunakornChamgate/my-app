@@ -2,7 +2,7 @@ export default function SongCard(props) {
     const { imageSrc, titleText, artistName, size } = props;
   
     // Define styles based on the size prop
-    const cardWidth = size === 'large' ? '372px' : size === 'small' ? '206px' : null;
+    const cardWidth = size === 'large' ? '350px' : size === 'small' ? '206px' : null;
     const cardHeight = size === 'large' ? '343px' : size === 'small' ? '191px' : null;
   
     const cardStyles = {

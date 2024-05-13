@@ -33,10 +33,12 @@ export default function song() {
           <div className="flex justify-between items-center mt-2 w-full">
             <SongList numberText="3" songName="Half the world away" artist="Oasis"/>
           </div>
-
-          <div className="grid justify-items-center mt-20 w-full bg-lime-300 min-h-[5vh] rounded-lg ">
-            <h1 className="text-zinc-900 text-2xl font- mt-1  ">Done </h1>
-          </div>
+         
+          <a href="/dashboard">
+            <div className="flex justify-center mt-20 bg-lime-300 min-h-[5vh] rounded-lg">
+              <h1 className="text-zinc-900 text-2xl mt-1">Done</h1>
+            </div>
+          </a>
 
           </main>
 

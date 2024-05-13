@@ -1,9 +1,11 @@
 export default function addyour() {
     return (
         <main className="ml-8 mt-10 mr-8">
-   <div className=" flex justify-start">
-   <img src="back.svg"  id="right-nav" /> 
-   <h1 className="text-white text-3xl font-semibold ml-5"> Warm up </h1>
+   <div className="flex items-center justify-start">
+    <a href="/dashboard"> {/* Replace "/other-page" with the actual URL */}
+      <img src="back.svg" id="right-nav" alt="Back" /> 
+    </a>
+    <h1 className="text-white text-3xl font-semibold ml-5">Warm up</h1>
   </div> 
   
   <div className="relative">
